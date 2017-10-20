@@ -110,17 +110,17 @@ h1 {
 .templatemmo_subheader {
     float: left;
     font-size: 16px;
-    color: #64d2b1;
+    color: #1bb285;
     font-weight: bold;
 }
 
-.templatemo_homebuton {
+.templatemo_homebuton { 
     float: right;
     padding: 5px 15px;
     text-align: center;
     font-weight: 600;
     color: #ffffff;
-    background: #91bf24;
+    background: #64d2b1;
     font-size: 14px;
     margin: 3% 0% 0% 0%;
 }
@@ -134,7 +134,7 @@ h1 {
     background-position: right;
     height: 40px;
     font-size: 20px;
-    color: #007954;
+    color:    #64d2b1 /*#007954*/;
     line-height: 40px;
     min-width: 140px;
     font-weight: bold;
@@ -168,11 +168,11 @@ h1 {
     width: 100%;
 }
 
-.templatemo_service_title {
+.templatemo_service_title { /* COLOR VERDE DE LAS LETRAS TITULO*/
     width: 100%;
     text-align: center;
     font-size: 20px;
-    color: #91bf24;
+    color: #64d2b1 /*#91bf24*/;
     font-weight: bold;
     margin-top: 50px;
 }
@@ -198,8 +198,8 @@ h1 {
     border: 1px solid #5c5c5c;
 }
 
-.templatemo_morebutton:hover {
-    background: #92bf24;
+.templatemo_morebutton:hover { /*RESALTADO DE BOTONES */
+    background: #64d2b1/* #92bf24*/;
     border: 1px solid #5c5c5c;
     cursor: pointer;
 }
@@ -213,7 +213,7 @@ h1 {
 
 .templatemo_pricing_subtitle {
     font-size: 24px;
-    color: #6d950c;
+    color: #64d2b1 /*#6d950c*/;
     text-align: center;
 }
 
@@ -252,7 +252,7 @@ h1 {
 }
 
 .templatemo_pricing_box span.price {
-    color: #597d01;
+    color:  #597d01;
     font-weight: bold;
     float: left;
     padding: 10px 0px 0px 0px;
@@ -280,8 +280,8 @@ h1 {
 
 .templatemo_signup {
 	display: block;
-    background: #91bf24;
-    color: #597d01;
+    background: #64d2b1;
+    color: #64d2b1;
     width: 60%;
     margin: 20px auto;
     text-align: center;
@@ -311,7 +311,7 @@ h1 {
     float: left;
     width: 100%;
     font-size: 22px;
-    color: #91bf24;
+    color: #64d2b1;
 }
 
 .templatemo_contacttitle {
@@ -326,7 +326,7 @@ h1 {
 .templatemo_sub_contacttitle {
     width: 100%;
     font-size: 22px;
-    color: #91bf24;
+    color: #64d2b1;
     text-align: center;
     margin-bottom: 50px;
 }
@@ -534,10 +534,10 @@ h1 {
         line-height: 30px;
     }
 
-    .templatemmo_subheader {
+    .templatemmo_subheader { /* COLOR LETRA RESPONSIVE*/
         float: left;
         font-size: 18px;
-        color: #6d950c;
+        color: #64d2b1;
         font-weight: bold;
     }
 }
@@ -573,7 +573,7 @@ h1 {
 
 @media (max-width: 767px) {
     #top-menu {
-        background: #668913;
+        background: #64d2b1;
         margin: 0px -15px 0px 0px;
         opacity: 0.9;
     }
@@ -640,7 +640,7 @@ h1 {
         float: right;
         text-align: right;
         font-size: 16px;
-        color: #6d950c;
+        color: #64d2b1;
         font-weight: bold;
     }
 
@@ -685,7 +685,7 @@ h1 {
     }
 
     #top-menu li.active a {
-        background: #699202;
+        background: #64d2b1;
         transform: skew(45deg);
         -o-transform: skew(45deg);
         -moz-transform: skew(45deg);
@@ -734,7 +734,7 @@ h1 {
         float: right;
         text-align: right;
         font-size: 20px;
-        color: #6d950c;
+        color: #64d2b1;
         font-weight: bold;
     }
 
@@ -764,7 +764,7 @@ h1 {
         text-align: center;
         font-weight: 600;
         color: #ffffff;
-        background: #91bf24;
+        background: #64d2b1;
         font-size: 14px;
         margin: 3% 0% 0% 0%;
     }
@@ -829,7 +829,7 @@ h1 {
         float: right;
         text-align: right;
         font-size: 24px;
-        color: #6d950c;
+        color: #64d2b1;
         font-weight: bold;
     }
 
@@ -850,7 +850,7 @@ h1 {
         text-align: center;
         font-weight: 600;
         color: #ffffff;
-        background: #91bf24;
+        background: #64d2b1;
         font-size: 16px;
         margin: 3% 0% 0% 0%;
     }
