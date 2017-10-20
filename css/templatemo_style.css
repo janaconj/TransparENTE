@@ -110,7 +110,7 @@ h1 {
 .templatemmo_subheader {
     float: left;
     font-size: 16px;
-    color: #6d950c;
+    color: #64d2b1;
     font-weight: bold;
 }
 
@@ -134,7 +134,7 @@ h1 {
     background-position: right;
     height: 40px;
     font-size: 20px;
-    color: #282828;
+    color: #007954;
     line-height: 40px;
     min-width: 140px;
     font-weight: bold;
@@ -394,12 +394,12 @@ h1 {
 
 .navbar-default .navbar-nav>li>a {
     color: #fff;
-    border-top: 1px solid #89b521;
+    border-top: 1px solid #1bb284;
 }
 
 .navbar-default .navbar-nav>li>a:hover {
-    background: #699206;
-    color: #ccff00;
+    background: #64d2b1;
+    color: #007954;
 }
 
 .navbar-default .navbar-collapse {
@@ -411,8 +411,8 @@ h1 {
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover {
-    background: #467200;
-    color: #ccff00;
+    background: #3bbf97;
+    color: #007954;
 }
 
 /*------------------------------------------------------
